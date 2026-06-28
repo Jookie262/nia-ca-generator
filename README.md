@@ -11,7 +11,7 @@ This project eliminates repetitive copy-and-paste work in Microsoft Word by allo
 
 ### Generate All
 
-![Generate All Video](Restricted%20Files/resources/generate_all.mp4)
+https://github.com/user-attachments/assets/85811e8d-7d1f-4c0f-a274-1bbff99e4376
 
 Generates Certificate of Appearance documents for **all records** available in the Excel worksheet.
 
@@ -25,7 +25,7 @@ Generates Certificate of Appearance documents for **all records** available in t
 
 ### Generate Selected
 
-![Generate Selected Video](Restricted%20Files/resources/generate_selected.mp4)
+https://github.com/user-attachments/assets/b08217e1-796e-4f4c-a623-23243a0f939f
 
 Generates certificates **only for the selected rows**.
 
